@@ -1,0 +1,16 @@
+{
+  "name": "count-keypresses",
+  "version": "0.0.1",
+  "description": "Testing sliding-window-counter using keypress.",
+  "main": "count.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "David Resseguie <david@resseguie.com>",
+  "license": "MIT",
+  "dependencies": {
+    "keypress": "^0.2.1",
+    "lodash": "^3.9.3",
+    "sliding-window-counter": "^0.2.4"
+  }
+}
